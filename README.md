@@ -7,5 +7,4 @@ learnt how to structure things properly, keep styling separate, and handling log
 
 lowkey small step but feels like i actually levelled up a bit
 
-poco a poco!!
-
+I used AI for the idea and the sketch on how should my project look like
